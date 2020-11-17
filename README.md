@@ -5,4 +5,4 @@
 
 ##### RSS - CNN Feed WebApp 
 ----------------------------------------------
-!(Javascript RSS - CNN Feed)[https://github.com/kmanning1224/Javascript-Projects/tree/main/RSS-Feed-Project]
+https://github.com/kmanning1224/Javascript-Projects/tree/main/RSS-Feed-Project
